@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Skyatlas Devops Tools Description & Release."
   text: "北京形图伟业信息技术有限公司的一些Devops TUI 工具分享"
-  tagline: My great project tagline
+  tagline: Free Software(Not OpenSource Yet)
   actions:
     - theme: brand
       text: Markdown Examples
