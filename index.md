@@ -18,8 +18,8 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: orclt
+    details: 命令行下的Oracle数据库管理员工具（Oracle TUI Tools， TUI: Text User Interfaces)
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
