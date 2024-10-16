@@ -21,6 +21,7 @@ hero:
 features:
   - title: orclt
     details: "命令行下的Oracle数据库管理员工具（Oracle TUI Tools， TUI: Text User Interfaces)"
+    target: /api-examples
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
