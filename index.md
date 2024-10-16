@@ -7,7 +7,7 @@ hero:
   text: "北京形图伟业信息技术有限公司的一些Devops TUI 工具分享"
   tagline: Free Software(Not OpenSource Yet)
   image:
-    src: /devops.svg
+    src: "/devops.svg"
     alt: Devops illustration...
   actions:
     - theme: brand
@@ -15,7 +15,8 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: API Examples
-      link: /api-examples
+      # link: /api-examples
+      link: /devops.svg
 
 features:
   - title: orclt
