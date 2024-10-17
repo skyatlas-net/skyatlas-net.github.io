@@ -28,5 +28,5 @@
 # 下载区
 
 ## MAC 平台
-![orclt_darwin_arm64](/orclt_darwin_arm64 "darwin_arm64")
-![orclt_darwin_amd64](/orclt_darwin_amd64 "darwin adm64")
+![orclt_darwin_arm64](/orclt_darwin_arm64 "darwin_arm64"){target="_self"}
+![orclt_darwin_amd64](/orclt_darwin_amd64 "darwin adm64"){target="_self"}
