@@ -8,6 +8,7 @@
 
 ## 我们设想的orclt使用场景。
     提前将orclt程序copy到服务器上（各平台的orclt程序都是单文件的可执行程序）。如果是Linux/Unix类服务器，以后通过JumpServer提供的SSH Client工具，在命令行中，通过orclt你可以：
+    
 * 查看连接的Oracle数据库的概况；
 * 当前Active Session（如果有锁或其他堵塞情况，会以Tree形式显示堵塞关系）；
 * 单个session，可以进一步查看其执行的SQL文本、SQL的执行计划；
@@ -21,6 +22,7 @@
 * RMAN备份记录
 * Jobs 和 Schedulers
 * 还提供了一个简化版的SCHEMA查看器（表、索引、视图、Sequence、MView等都是支持的）
+  
   虽然是命令行程序，仍然设想你使用鼠标（支持鼠标单击、双击选择，期望你使用的是超宽的终端）
 
 ## 权益申明
