@@ -30,7 +30,7 @@ TUI： Text User Interface； CLI： Command Line Interface
 
 ## 权益申明
 
-orclt工具由 **北京星图伟业信息技术有限公司** 发布，完全Free，对于使用或者二次分发我们完全不作限制，同时 **我们也不承担任何责任** 。发现问题或者有建议欢迎发邮件到 <hendry@skyatlas.net>， 邮件一般不会回复。
+orclt工具由 **北京星图伟业信息技术有限公司** 发布，完全Free，对于使用或者二次分发不作限制，同时 **我们也不承担任何责任** 。发现问题或者有建议欢迎发邮件到 <hendry@skyatlas.net>， 邮件一般不会回复。
 
 ## 下载区
 
