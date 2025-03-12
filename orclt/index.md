@@ -32,6 +32,10 @@ TUI： Text User Interface； CLI： Command Line Interface
 
 orclt工具由 **北京星图伟业信息技术有限公司** 发布，完全Free，对于使用或者二次分发不作限制，同时 **我们也不承担任何责任** 。发现问题或者有建议欢迎发邮件到 <hendry@skyatlas.net>， 邮件一般不会回复。
 
+## Tutorial
+
+[tutor.md](./tutor.md)
+
 ## 下载区
 
 文件命名规则是 orclt_{OS-NAME}_{Arch-Name}，请注意选择.
